@@ -1,7 +1,11 @@
 {
   "name": "nextjs-docs",
+  "description": "Proyecto para documentacion, creado con Next.js 14.0.2 + Tailwindcss + Markdown + Typescript",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
